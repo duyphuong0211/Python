@@ -1,1 +1,1 @@
-# Python
+# This repository stores python exercises
